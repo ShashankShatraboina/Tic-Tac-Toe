@@ -1,2 +1,4 @@
 # Tic Tac Toe Game
-here is my site link: https://tic-tac-toe-ochre-eight.vercel.app/ 
+Launch :
+1. https://shashankshatraboina.github.io/Tic-Tac-Toe/
+2. https://tic-tac-toe-ochre-eight.vercel.app/ 
