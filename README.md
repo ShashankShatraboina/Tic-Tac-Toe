@@ -30,8 +30,8 @@ Players take turns marking X and O on the game board. The game automatically che
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/multiplayer-tic-tac-toe.git
-cd multiplayer-tic-tac-toe
+git clone https://github.com/ShashankShatraboina/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
 pip install -r requirements.txt
 ````
 
