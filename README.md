@@ -21,9 +21,7 @@ Multiplayer Tic Tac Toe is an interactive game application where two players can
 - Lightweight and easy to use
 
 ## Technologies Used
-- Python / JavaScript
-- Streamlit / Flask / React (update based on your project)
-- Socket Programming / WebSockets (if used)
+
 - HTML, CSS, JavaScript
 
 ## How It Works
