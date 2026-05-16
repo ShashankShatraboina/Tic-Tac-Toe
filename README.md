@@ -32,14 +32,11 @@ Players take turns marking X and O on the game board. The game automatically che
 ```bash
 git clone https://github.com/ShashankShatraboina/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
-pip install -r requirements.txt
 ````
 
 ## Run the Project
 
-```bash
-python app.py
-```
+https://shashankshatraboina.github.io/Tic-Tac-Toe/
 
 ## Future Improvements
 
